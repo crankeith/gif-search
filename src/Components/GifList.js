@@ -11,6 +11,6 @@ const GifList = ( props ) => {
         { gifs }
     </ul> 
   );
-}
+};
 
 export default GifList;
